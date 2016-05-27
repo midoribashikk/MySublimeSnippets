@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[final int dn = 4;
+final int[] dx = {1, 0, -1, 0};
+final int[] dy = {0, 1, 0, -1};
+
+]]></content>
+    <tabTrigger>mv4</tabTrigger>
+    <scope>source.java</scope>
+    <description>move4</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[final int dn = 8;
+final int[] dx = {1, 1, 0, -1, -1, -1, 0, 1};
+final int[] dy = {0, 1, 1, 1, 0, -1, -1, -1};
+
+]]></content>
+    <tabTrigger>mv8</tabTrigger>
+    <scope>source.java</scope>
+    <description>move8</description>
+</snippet>
