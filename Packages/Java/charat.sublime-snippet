@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[charAt($1)]]></content>
+    <tabTrigger>charat</tabTrigger>
+    <scope>source.java</scope>
+    <description>charat</description>
+</snippet>

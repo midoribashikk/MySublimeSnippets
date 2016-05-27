@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[MIN_VALUE]]></content>
+    <tabTrigger>mnv</tabTrigger>
+    <scope>source.java</scope>
+    <description>MIN_VALUE</description>
+</snippet>

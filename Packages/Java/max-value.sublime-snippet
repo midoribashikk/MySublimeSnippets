@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[MAX_VALUE]]></content>
+    <tabTrigger>mxv</tabTrigger>
+    <scope>source.java</scope>
+    <description>MAX_VALUE</description>
+</snippet>

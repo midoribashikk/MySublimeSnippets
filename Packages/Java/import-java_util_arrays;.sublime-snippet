@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[import java.util.Arrays;
+$0]]></content>
+    <tabTrigger>ima</tabTrigger>
+    <scope>source.java</scope>
+    <description>import java.util.Arrays;</description>
+</snippet>

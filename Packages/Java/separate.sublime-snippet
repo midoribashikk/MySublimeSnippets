@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[+", "+]]></content>
+    <tabTrigger>sep</tabTrigger>
+    <scope>source.java</scope>
+    <description>separate</description>
+</snippet>

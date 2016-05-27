@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[final int MOD = 1000000007;]]></content>
+    <tabTrigger>mod</tabTrigger>
+    <scope>source.java</scope>
+    <description>1000000007</description>
+</snippet>
