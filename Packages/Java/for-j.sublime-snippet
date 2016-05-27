@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[for (j=0; j<n; j++) {
+	$0
+}]]></content>
+    <tabTrigger>forj</tabTrigger>
+    <scope>source.java</scope>
+    <description>for (int jj)</description>
+</snippet>
