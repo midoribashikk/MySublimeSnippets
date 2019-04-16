@@ -1,3 +1,0 @@
-ConvertToUTF8
-IMESupport
-simple-clone
